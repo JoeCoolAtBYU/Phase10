@@ -13,10 +13,38 @@ hand and then any phases that can be completed for example:
     These are your cards: 
     [Green_four, Blue_two, Green_eight, Red_two, Yellow_six, Blue_seven, Yellow_four, Blue_twelve, Red_two, Yellow_eight]
     You can complete these phases: None
+
+    Esier to Read version:
+        Blue_two,
+        Red_two,
+        Red_two,
+        Green_four,
+        Yellow_four,
+        Yellow_six,
+        Blue_seven,
+        Green_eight,
+        Yellow_eight,
+        Blue_twelve,
+    Nothing can be done with this had except to play and exchage cards until a phase is created.
     
     These are your cards:
     [Red_ten, Green_six, Red_five, Green_twelve, Yellow_three, Green_seven, Red_eleven, Blue_eight, Yellow_four, Red_nine]
     You can complete these phases: Phase 4, Phase 5, Phase 6, 
+
+    Easier to read version:
+        Yellow_three,
+        Yellow_four,
+        Red_five,
+        Green_six,
+        Green_seven,
+        Blue_eight,
+        Red_nine,
+        Red_ten,
+        Red_eleven,
+        Green_twelve
+    Phase 4 is: 1 run of 7
+    Phase 5 is: 1 run of 8
+    Phase 6 is: 1 run of 9
 
 TODO: 
 - implement the use of Wild cards
