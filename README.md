@@ -4,7 +4,7 @@ The code is not currently fully functional for an entire game of phase 10.
 
 The src/main/java/com/barnett/phase10/main/Phase10.java class has a main method
 which can be used to run a test of the whichPhases method. This will create a deck
-of phase 10 cards shuffle them and then check to see which phases a set of 10 cards delt
+of phase 10 cards shuffle them and then check to see which phases a set of 10 cards dealt
 will finish if any. This loops 100 times. 
 
 When running the main method you will see a printout in the console of the cards in the current
