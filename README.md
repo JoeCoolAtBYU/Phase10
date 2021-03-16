@@ -1,6 +1,6 @@
-This is some code to simulat a phase 10 game.
+This is some code to simulate a phase 10 game.
 
-The code is not currenly fully functional for an entire game of phase 10.
+The code is not currently fully functional for an entire game of phase 10.
 
 The src/main/java/com/barnett/phase10/main/Phase10.java class has a main method
 which can be used to run a test of the whichPhases method. This will create a deck
