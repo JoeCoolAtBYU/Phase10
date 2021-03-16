@@ -41,6 +41,7 @@ public class Phase10 {
 
 
             System.out.println(result);
+            System.out.print("\n");
         }
     }
 }
